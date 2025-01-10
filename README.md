@@ -6,32 +6,39 @@
 
 **Features**
 
-**Automated Job Scraping:** Extracts job postings from provided URLs.
 
-**Data Structuring:** Converts unstructured job data into structured JSON formats (role, experience, skills, description).
+**1.Automated Job Scraping:** Extracts job postings from provided URLs.
 
-**Skill Matching:** Compares job requirements with user-uploaded portfolios and calculates percentage match.
+**2.Data Structuring:** Converts unstructured job data into structured JSON formats (role, experience, skills, description).
 
-**Interview Preparation:** Generates customized interview questions based on job descriptions.
+**3.Skill Matching:** Compares job requirements with user-uploaded portfolios and calculates percentage match.
 
-**User-Friendly Interface:** Interactive Gradio-based web interface for seamless interaction.
+**4.Interview Preparation:** Generates customized interview questions based on job descriptions.
+
+**5.User-Friendly Interface:** Interactive Gradio-based web interface for seamless interaction.
+
 
 
 
 **Technologies Used**
 
-**Python:** Core programming language.
 
-**LangChain:** AI model integration for text processing.
 
-**ChromaDB:** Vector database for storing and querying portfolio data.
+**1.Python:** Core programming language.
 
-**Gradio:** For building the interactive user interface.
+**2.LangChain:** AI model integration for text processing.
 
-**Pandas:** Data manipulation and analysis.
+**3.ChromaDB:** Vector database for storing and querying portfolio data.
+
+**4.Gradio:** For building the interactive user interface.
+
+**5.Pandas:** Data manipulation and analysis.
+
 
 
 **Usage**
+
+
 
 **1.Launch the application:** the Gradio interface will open in your browser.
 
